@@ -1,4 +1,4 @@
-export default function About(params) {
+export default function About() {
     return(
         <div>
             <h3 className="text-3xl text-center mt-4">Acerca de</h3>
